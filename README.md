@@ -16,7 +16,6 @@ This project showcases a beautifully designed landing page that is not only visu
 
 - **HTML**: For the basic structure of the webpage.
 - **CSS**: To style the page with modern design trends and responsive features.
-- **JavaScript** (if applicable): For any interactive elements or dynamic content.
 
 ## Getting Started
 
